@@ -1,0 +1,8 @@
+DEMORAS
+
+Implícita: busca uno o varios elementos en el DOM
+    si no se encuentran disponibles por la cantidad de
+    tiempo asignado. (driver.implicitly_wait(n))
+
+Explícita: utiliza condiciones de espera determinadas y
+    continúa hasta que se cumplan.
